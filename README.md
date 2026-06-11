@@ -2,7 +2,7 @@
 
 Este repositório contém um projeto de Business Intelligence desenvolvido para monitorar indicadores de produção, qualidade e disponibilidade operacional. O objetivo foi transformar dados operacionais em insights estratégicos capazes de apoiar a tomada de decisão, identificar gargalos produtivos e acompanhar a eficiência da operação ao longo do tempo.
 
-![Visual do Dashboard](./dashboard-foto.png)
+![Visual do Dashboard](./Dashboard-foto.png)
 
 ## 🚀 Destaques do Projeto
 

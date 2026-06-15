@@ -1,4 +1,4 @@
-# 📊 Dashboard de Performance Operacional e Produção
+# 📊 Dashboard de Performance Operacional e Produção 
 
 Projeto de Business Intelligence desenvolvido para monitorar indicadores de produção, qualidade e disponibilidade operacional, transformando dados operacionais em informações estratégicas para apoio à tomada de decisão.
 

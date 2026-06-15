@@ -1,56 +1,123 @@
 # 📊 Dashboard de Performance Operacional e Produção
 
-Este repositório contém um projeto de Business Intelligence desenvolvido para monitorar indicadores de produção, qualidade e disponibilidade operacional. O objetivo foi transformar dados operacionais em insights estratégicos capazes de apoiar a tomada de decisão, identificar gargalos produtivos e acompanhar a eficiência da operação ao longo do tempo.
+Projeto de Business Intelligence desenvolvido para monitorar indicadores de produção, qualidade e disponibilidade operacional, transformando dados operacionais em informações estratégicas para apoio à tomada de decisão.
+
+O dashboard foi construído utilizando Power BI e permite acompanhar métricas de produtividade, eficiência operacional, qualidade da produção e disponibilidade dos recursos, auxiliando na identificação de gargalos, oportunidades de melhoria e acompanhamento do desempenho produtivo ao longo do tempo.
+
+---
+
+## 🌐 Dashboard Interativo
+
+👉 **Acesse o relatório online:**
+
+https://app.powerbi.com/view?r=eyJrIjoiMTFlNzBiMjMtOTVlNi00ZmMwLTgzMjEtZTE1MWFkNTU5YmRhIiwidCI6ImM3ZDQ0MTJiLWNmYTctNGM5Mi1iOGE1LTZmZGFkOTllYTk2MiJ9
+
+---
+
+## 📷 Visão Geral do Dashboard
 
 ![Visual do Dashboard](./Dashboard-foto.png)
 
-## 🚀 Destaques do Projeto
+---
 
-* **Análise Operacional:** Estruturação dos dados para monitorar produção aprovada, produção reprovada, disponibilidade operacional e indicadores de qualidade.
-* **Dashboard Interativo:** Implementação de filtros dinâmicos por período e operador, permitindo análises detalhadas do desempenho produtivo sob diferentes perspectivas.
-* **KPIs Estratégicos:** Desenvolvimento de indicadores voltados para acompanhamento rápido da eficiência operacional, produtividade e qualidade.
-* **Visualização de Dados:** Construção de um painel intuitivo para facilitar a interpretação das métricas e apoiar decisões baseadas em dados.
-* **Análise Temporal:** Comparação do desempenho operacional ao longo dos meses para identificação de tendências e oportunidades de melhoria contínua.
+## 🎯 Objetivos do Projeto
+
+* Monitorar indicadores operacionais e produtivos;
+* Acompanhar a eficiência da produção ao longo do tempo;
+* Avaliar indicadores de qualidade e disponibilidade operacional;
+* Identificar gargalos produtivos e oportunidades de melhoria;
+* Apoiar decisões baseadas em dados para otimização dos processos.
+
+---
+
+## 📈 Indicadores (KPIs)
+
+* Produção Aprovada;
+* Produção Reprovada;
+* Horas Produtivas;
+* Horas Paradas;
+* Disponibilidade Operacional;
+* Índice de Qualidade.
+
+---
+
+## 💡 Principais Análises
+
+* Comparação entre produção aprovada e reprovada;
+* Monitoramento das horas produtivas e períodos de parada;
+* Avaliação da disponibilidade operacional dos recursos;
+* Análise da qualidade da produção ao longo do tempo;
+* Comparação de desempenho entre operadores;
+* Identificação de tendências operacionais e oportunidades de melhoria contínua.
+
+---
+
+## 🚀 Solução Desenvolvida
+
+### Modelagem de Dados
+
+Estruturação e relacionamento de tabelas para integração das informações de produção, qualidade e disponibilidade operacional.
+
+### ETL e Transformação de Dados
+
+Aplicação de processos de extração, tratamento e transformação utilizando Power Query para garantir consistência, qualidade e confiabilidade dos dados analisados.
+
+### Desenvolvimento de KPIs
+
+Criação de indicadores operacionais utilizando DAX para monitoramento de produtividade, qualidade e eficiência da operação.
+
+### Visualização de Dados
+
+Construção de dashboard interativo com foco em análise operacional, acompanhamento de indicadores e suporte à tomada de decisão.
+
+### Análise Temporal
+
+Implementação de análises comparativas ao longo dos períodos para identificação de tendências, sazonalidades e oportunidades de melhoria contínua.
+
+---
 
 ## 🛠️ Tecnologias Utilizadas
 
-* **Power BI Desktop** (Construção dos visuais, ETL e Modelagem)
-* **Power Query** (Transformação e tratamento dos dados)
-* **Linguagem DAX** (Criação de medidas, KPIs e cálculos de negócio)
-* **Modelagem de Dados** (Relacionamentos e estrutura analítica)
+* Power BI Desktop
+* Power Query
+* DAX
+* Modelagem de Dados
+* ETL
+* Data Visualization
+* Business Intelligence
 
-## 📈 Indicadores Monitorados
+---
 
-* Produção Aprovada
-* Produção Reprovada
-* Horas Produtivas
-* Horas Paradas
-* Disponibilidade Operacional
-* Índice de Qualidade
+## 📂 Estrutura do Projeto
 
-## 📁 Como Auditar o Projeto Técnico
+```text
+dashboard-producao-powerbi/
+│
+├── Dashboard_Producao.pbix
+├── Dashboard-foto.png
+├── README.md
+└── dataset/
+```
 
-O arquivo fonte original está totalmente disponível neste repositório para análise técnica.
+---
 
-Você pode fazer o download do arquivo **`.pbix`** diretamente no projeto para inspecionar:
+## 📚 Competências Aplicadas
 
-1. A modelagem de tabelas e relacionamentos.
-2. As fórmulas e medidas DAX utilizadas.
-3. O tratamento e transformação dos dados no Power Query.
-4. A construção dos KPIs operacionais.
-5. A estrutura dos filtros e segmentações.
-6. As boas práticas aplicadas na visualização de dados.
+* Business Intelligence
+* Power BI
+* Power Query
+* DAX
+* ETL
+* Modelagem de Dados
+* Data Analytics
+* Data Visualization
+* Storytelling com Dados
+* Indicadores de Desempenho (KPIs)
+* Análise Operacional
+* Controle de Produção
+* Melhoria Contínua
 
-## 💡 Objetivos de Negócio
-
-Através deste dashboard é possível:
-
-* Monitorar a eficiência operacional da produção.
-* Identificar períodos com aumento de horas paradas.
-* Avaliar impactos na qualidade da produção.
-* Comparar desempenho entre operadores.
-* Detectar tendências operacionais ao longo do tempo.
-* Apoiar decisões orientadas por dados para melhoria contínua.
+---
 
 ## 👨‍💻 Autor
 
